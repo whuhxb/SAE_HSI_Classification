@@ -1,0 +1,29 @@
+ENVI
+description = {
+  Classification Image created from input ROIs [Mon May 20 16:11:34 2013]}
+samples = 340
+lines   = 610
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 10
+class lookup = {
+   0,   0,   0, 216, 191, 216,   0, 255,   0,   0, 255, 255,  46, 139,  87,
+ 255,   0, 255, 255, 165,   0, 160,  32, 240, 255,   0,   0, 255, 255,   0}
+class names = {
+ Unclassified, Random Sample (Asphalt) [Thistle] 100 points, 
+ Random Sample (Meadows) [Green] 100 points, 
+ Random Sample (Gravel) [Cyan] 100 points, 
+ Random Sample (Trees) [Sea Green] 100 points, 
+ Random Sample (Metal_sheets) [Magenta] 100 points, 
+ Random Sample (Bare_soil) [Orange1] 100 points, 
+ Random Sample (Bitumen) [Purple] 100 points, 
+ Random Sample (Bricks) [Red] 100 points, 
+ Random Sample (Shadows) [Yellow] 100 points}
+byte order = 0
+wavelength units = Unknown
+band names = {
+ Class Image from ROIs}
